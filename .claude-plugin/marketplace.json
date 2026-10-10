@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"PR发稿专家：事件→通稿结构→多版本输出→媒体清单→发布节奏；5W1H/引言出处/极限词/错别字自查","name":"lhg-pr","source":"./"}]}
